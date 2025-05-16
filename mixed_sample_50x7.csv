@@ -1,0 +1,51 @@
+ID,Name,Age,City,Department,Salary,Years_At_Company
+1,Alice,54,New York,HR,46655,5
+2,Ivy,49,New York,HR,110031,1
+3,Eva,54,New York,HR,116429,13
+4,Frank,26,Houston,IT,95766,7
+5,Frank,40,Houston,HR,53403,5
+6,David,25,New York,Finance,72097,6
+7,Frank,56,Chicago,Marketing,118657,13
+8,Eva,38,Houston,Sales,50966,7
+9,Charlie,49,New York,HR,92921,3
+10,Charlie,51,Phoenix,Finance,89726,12
+11,Charlie,50,Chicago,Sales,90300,10
+12,Jack,27,New York,Sales,62677,3
+13,Grace,56,Houston,Marketing,95609,5
+14,Eva,58,Phoenix,Marketing,96661,6
+15,Bob,45,Chicago,Marketing,71024,9
+16,Bob,50,Houston,HR,110313,13
+17,Eva,52,Phoenix,Marketing,93006,14
+18,Eva,56,Los Angeles,IT,55338,12
+19,Charlie,54,Phoenix,Marketing,108027,5
+20,Ivy,42,Houston,Sales,59508,1
+21,Jack,53,Los Angeles,Marketing,43051,14
+22,Jack,44,Chicago,Finance,88747,14
+23,Jack,54,Houston,IT,94021,14
+24,Grace,24,Houston,Marketing,106412,4
+25,Helen,39,Chicago,IT,98335,5
+26,Jack,46,New York,HR,96179,12
+27,Helen,52,New York,Finance,72093,10
+28,David,24,Chicago,Sales,109678,10
+29,David,45,Chicago,Sales,79734,5
+30,Eva,53,New York,IT,112615,7
+31,Alice,43,Phoenix,IT,113523,4
+32,Charlie,44,Los Angeles,IT,57019,1
+33,Grace,23,New York,HR,113847,14
+34,Jack,48,New York,Marketing,119634,14
+35,Frank,23,New York,Sales,68251,5
+36,Bob,47,New York,HR,65945,7
+37,Jack,38,New York,HR,72217,10
+38,Bob,54,Los Angeles,HR,48308,10
+39,Alice,30,Chicago,Finance,45949,6
+40,Charlie,50,Los Angeles,HR,91990,5
+41,Grace,47,Los Angeles,Marketing,41150,4
+42,David,56,Chicago,Sales,114740,2
+43,Eva,46,Houston,Sales,106617,4
+44,Bob,45,Phoenix,HR,56896,10
+45,Eva,34,Chicago,Marketing,86175,10
+46,Alice,28,Houston,Sales,47805,3
+47,Frank,57,Los Angeles,Marketing,45237,10
+48,David,41,Chicago,Sales,60056,1
+49,Bob,22,Houston,IT,85543,8
+50,Frank,29,Phoenix,IT,96556,5
